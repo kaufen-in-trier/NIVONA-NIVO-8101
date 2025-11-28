@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://semper-haus-radebeul.pages.dev/sitemap.xml
+Sitemap: https://kaufen-in-trier.github.io/NIVONA-NIVO-8101/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
